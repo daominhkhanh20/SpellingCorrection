@@ -1,1 +1,1 @@
-# VietnameseSpellingCorrection
+# SpellingCorrection
